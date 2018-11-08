@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: e93061beefff44f739bf61ef6269064c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UNM_Slots_0
+    21300002: UNM_Slots_1
+    21300004: UNM_Slots_2
+    21300006: UNM_Slots_4
+    21300008: UNM_Slots_5
+    21300010: UNM_Slots_6
+    21300012: UNM_Slots_8
+    21300014: UNM_Slots_9
+    21300016: UNM_Slots_10
+    21300018: UNM_Slots_Prop_1
+    21300020: UNM_Slots_Prop_2
+    21300022: UNM_Slots_Prop_3
+    21300024: UNM_Slots_3
+    21300026: UNM_Slots_7
+    21300028: UNM_Slots_11
+    21300030: UNM_Slots_Prop_4
+    21300032: UNM_Slots_Prop_5
+    21300034: UNM_Slots_Prop_6
+    21300036: UNM_Slots_Prop_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UNM_Slots_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+    - name: UNM_Slots_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 100, z: 0, w: 100}
+    - name: UNM_Slots_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+    - name: UNM_Slots_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 560
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 100, z: 0, w: 100}
+    - name: UNM_Slots_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+    - name: UNM_Slots_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 100, z: 0, w: 100}
+    - name: UNM_Slots_Prop_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 220
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_Prop_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 160
+        width: 200
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_Prop_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 150
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 780
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 100, y: 0, z: 100, w: 0}
+    - name: UNM_Slots_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 559
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 100, y: 0, z: 100, w: 0}
+    - name: UNM_Slots_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 340
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 100, y: 0, z: 100, w: 0}
+    - name: UNM_Slots_Prop_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_Prop_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 8
+        width: 190
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_Prop_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 27
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Slots_Prop_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 25
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

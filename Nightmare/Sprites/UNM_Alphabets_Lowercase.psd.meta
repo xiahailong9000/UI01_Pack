@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: cb0024ed3f7104bb8baefa2d7deeee38
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIP_NM_Font_01_Lowercase_0
+    21300002: UIP_NM_Font_01_Lowercase_1
+    21300004: UIP_NM_Font_01_Lowercase_2
+    21300006: UIP_NM_Font_01_Lowercase_3
+    21300008: UIP_NM_Font_01_Lowercase_4
+    21300010: UIP_NM_Font_01_Lowercase_5
+    21300012: UIP_NM_Font_01_Lowercase_6
+    21300014: UIP_NM_Font_01_Lowercase_7
+    21300016: UIP_NM_Font_01_Lowercase_8
+    21300018: UIP_NM_Font_01_Lowercase_9
+    21300020: UIP_NM_Font_01_Lowercase_10
+    21300022: UIP_NM_Font_01_Lowercase_11
+    21300024: UIP_NM_Font_01_Lowercase_12
+    21300026: UIP_NM_Font_01_Lowercase_13
+    21300028: UIP_NM_Font_01_Lowercase_14
+    21300030: UIP_NM_Font_01_Lowercase_15
+    21300032: UIP_NM_Font_01_Lowercase_16
+    21300034: UIP_NM_Font_01_Lowercase_17
+    21300036: UIP_NM_Font_01_Lowercase_18
+    21300038: UIP_NM_Font_01_Lowercase_19
+    21300040: UIP_NM_Font_01_Lowercase_20
+    21300042: UIP_NM_Font_01_Lowercase_21
+    21300044: UIP_NM_Font_01_Lowercase_22
+    21300046: UIP_NM_Font_01_Lowercase_23
+    21300048: UIP_NM_Font_01_Lowercase_24
+    21300050: UIP_NM_Font_01_Lowercase_25
+    21300052: UIP_NM_Font_01_Lowercase_26
+    21300054: UIP_NM_Font_01_Lowercase_27
+    21300056: UIP_NM_Font_01_Lowercase_28
+    21300058: UIP_NM_Font_01_Lowercase_29
+    21300060: UIP_NM_Font_01_Lowercase_30
+    21300062: UIP_NM_Font_01_Lowercase_31
+    21300064: UIP_NM_Font_01_Lowercase_32
+    21300066: UIP_NM_Font_01_Lowercase_33
+    21300068: UIP_NM_Font_01_Lowercase_34
+    21300070: UIP_NM_Font_01_Lowercase_35
+    21300072: UIP_NM_Font_01_Lowercase_36
+    21300074: UIP_NM_Font_01_Lowercase_37
+    21300076: UIP_NM_Font_01_Lowercase_38
+    21300078: UNM_Font_01_Lowercase_0
+    21300080: UNM_Font_01_Lowercase_1
+    21300082: UNM_Font_01_Lowercase_2
+    21300084: UNM_Font_01_Lowercase_3
+    21300086: UNM_Font_01_Lowercase_4
+    21300088: UNM_Font_01_Lowercase_5
+    21300090: UNM_Font_01_Lowercase_6
+    21300092: UNM_Font_01_Lowercase_7
+    21300094: UNM_Font_01_Lowercase_8
+    21300096: UNM_Font_01_Lowercase_9
+    21300098: UNM_Font_01_Lowercase_10
+    21300100: UNM_Font_01_Lowercase_11
+    21300102: UNM_Font_01_Lowercase_12
+    21300104: UNM_Font_01_Lowercase_13
+    21300106: UNM_Font_01_Lowercase_14
+    21300108: UNM_Font_01_Lowercase_15
+    21300110: UNM_Font_01_Lowercase_16
+    21300112: UNM_Font_01_Lowercase_17
+    21300114: UNM_Font_01_Lowercase_18
+    21300116: UNM_Font_01_Lowercase_19
+    21300118: UNM_Font_01_Lowercase_20
+    21300120: UNM_Font_01_Lowercase_21
+    21300122: UNM_Font_01_Lowercase_22
+    21300124: UNM_Font_01_Lowercase_23
+    21300126: UNM_Font_01_Lowercase_24
+    21300128: UNM_Font_01_Lowercase_25
+    21300130: UNM_Font_01_Lowercase_26
+    21300132: UNM_Font_01_Lowercase_27
+    21300134: UNM_Font_01_Lowercase_28
+    21300136: UNM_Font_01_Lowercase_29
+    21300138: UNM_Font_01_Lowercase_30
+    21300140: UNM_Font_01_Lowercase_31
+    21300142: UNM_Font_01_Lowercase_32
+    21300144: UNM_Font_01_Lowercase_33
+    21300146: UNM_Font_01_Lowercase_34
+    21300148: UNM_Font_01_Lowercase_35
+    21300150: UNM_Font_01_Lowercase_36
+    21300152: UNM_Font_01_Lowercase_37
+    21300154: UNM_Font_01_Lowercase_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UNM_Font_01_Lowercase_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 420
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 280
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 140
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Font_01_Lowercase_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

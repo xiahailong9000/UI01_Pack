@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: be53c60d37aa54e9e9a1f8734e5b42f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UNM_Sliders_0
+    21300002: UNM_Sliders_1
+    21300004: UNM_Sliders_2
+    21300006: UNM_Sliders_3
+    21300008: UNM_Sliders_4
+    21300010: UNM_Sliders_5
+    21300012: UNM_Sliders_6
+    21300014: UNM_Sliders_7
+    21300016: UNM_Sliders_8
+    21300018: UNM_Sliders_9
+    21300020: UNM_Sliders_10
+    21300022: UNM_Sliders_11
+    21300024: UNM_Sliders_12
+    21300026: UNM_Sliders_13
+    21300028: UNM_Sliders_14
+    21300030: UNM_Sliders_15
+    21300032: UNM_Sliders_16
+    21300034: UNM_Sliders_17
+    21300036: UNM_Sliders_18
+    21300038: UNM_Sliders_19
+    21300040: UNM_Sliders_20
+    21300042: UNM_Sliders_21
+    21300044: UNM_Sliders_22
+    21300046: UNM_Sliders_23
+    21300048: UNM_Sliders_24
+    21300050: UNM_Sliders_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UNM_Sliders_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 40, y: 45, z: 40, w: 45}
+    - name: UNM_Sliders_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+    - name: UNM_Sliders_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 196
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+    - name: UNM_Sliders_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 196
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: UNM_Sliders_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 190
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+    - name: UNM_Sliders_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 190
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+    - name: UNM_Sliders_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 85
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+    - name: UNM_Sliders_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+    - name: UNM_Sliders_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: UNM_Sliders_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: UNM_Sliders_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 120
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+    - name: UNM_Sliders_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 126
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNM_Sliders_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+    - name: UNM_Sliders_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: UNM_Sliders_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 40, y: 45, z: 40, w: 45}
+    - name: UNM_Sliders_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+    - name: UNM_Sliders_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 86
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 8, z: 7, w: 8}
+    - name: UNM_Sliders_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+    - name: UNM_Sliders_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+    - name: UNM_Sliders_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 61
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 8, z: 7, w: 8}
+    - name: UNM_Sliders_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+    - name: UNM_Sliders_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+    - name: UNM_Sliders_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 49
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+    - name: UNM_Sliders_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 22
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 13, y: 15, z: 13, w: 15}
+    - name: UNM_Sliders_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 29
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+    - name: UNM_Sliders_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+  spritePackingTag: 
+  userData: 
